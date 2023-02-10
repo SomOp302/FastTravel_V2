@@ -1,1 +1,50 @@
+#   [Fast Travel By SOM] #
 
+#Must Have FormAPI on Your server#
+
+# Subscribe to TECH_GAMING_SOM #
+#Warps
+pvp-world: "Hypixel - Skyblock Hub"
+pvp-x: "0"
+pvp-y: "79"
+pvp-z: "0"
+
+forest-world: "Hypixel - Skyblock Hub"
+forest-x: "-279"
+forest-y: "82"
+forest-z: "-12"
+
+mine-world: "Hypixel - Skyblock Hub"
+mine-x: "-300"
+mine-y: "111"
+mine-z: "107"
+
+farm-world: "Hypixel - Skyblock Hub"
+farm-x: "115"
+farm-y: "71"
+farm-z: "-211"
+
+grave-world: "Hypixel - Skyblock Hub"
+grave-x: "-104"
+grave-y: "72"
+grave-z: "-137"
+
+end-world: "Hypixel - Skyblock Hub"
+end-x: "-608"
+end-y: "22"
+end-z: "-275"
+
+nether-world: "Hypixel - Skyblock Hub"
+nether-x: "-309"
+nether-y: "83"
+nether-z: "-385"
+
+crates-world: "Hypixel - Skyblock Hub"
+crates-x: "4"
+crates-y: "73"
+crates-z: "-107"
+
+leaderboard-world: "Hypixel - Skyblock Hub"
+leaderboard-x: "4"
+leaderboard-y: "73"
+leaderboard-z: "152" 
