@@ -1,0 +1,15 @@
+name: FastTravel
+version: 2.0.0
+main: SomOP/Warp
+api: 4.0.0
+author: SomDevOp
+
+commands:
+  warpui:
+    description: Open Warp Menu For Travel In Different Places happy journey 
+    permission: warpui.cmd
+    
+permissions:
+  warpui.cmd:
+    description: Permission to use Warp command
+    default: true
